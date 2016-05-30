@@ -18,7 +18,7 @@ BYOPuppet is a project that aims to
 * Offer a place where artists can upload and share modified files created from the original designs created by Laurie Berenhaus. Such modifications may include updates that:
     * allow designs to be printed in a different material or printing process, from the original
     * personalize designs to accomodate specific characters, aesthetics, movement, etc required for a given production or even simply personal experimentation
-    *and more
+    * and more
 
 ### Contributing
 
@@ -30,13 +30,7 @@ If you want to add file modifications, assembly documentation, etc. from your ow
 * Models are stored in real world (1x) scale. STL units are millimeters.
 * Each 3D models was originally designed to meet the production process of a given 3D printing technology. 
 * 3D models are organized in folders according to their recommended printing method.
-
-
-
-
-## 3D Printing 
-
-* **FDM (Fused Deposition Modeling, also known as FFF or Fused Filament Fabrication)**
+    * **FDM (Fused Deposition Modeling, also known as FFF or Fused Filament Fabrication)**
 <br>
 ![](http://images.gizmag.com/inline/3d-printer-comparison-11.jpg)
 <br>
@@ -46,7 +40,7 @@ The most common 3D printing technology of desktop printers. Plastic filament is 
 Common examples include Makerbot, Ultimkaer, and RepRap.
 <br>
 
-* **SLS (Selective Laser Sintering)**
+    * **SLS (Selective Laser Sintering)**
 <br>
 ![](http://images.shapeways.com/picture/image//udesign/tutorials/designing_mechanical_parts_for_3d_printing/06.png)
 <br>
@@ -56,14 +50,11 @@ Select Laser Sintering uses a laser to fuse powdered material to create a solid 
 
 <br>
 
-<font color=”#0000FF”>Note: To help BYOPuppet grow as a resource, all are invited to download a 3d file, modify it to meet the needs of your preferred printing method, and upload the new version to be shared with the community. </font>
 
 
-# Projects
+# Project Tutorials
 
-For easy reference, **ALL** tutorials for puppet construction, tips, and references will be kept on BYOPuppet's Wiki. 
-
-Projects may reference files (ex. balljoint_1half_PVCfit.stl ), however downloadable files will remain in their respective folder.
+* Projects may reference files (ex. balljoint_1half_PVCfit.stl ), however downloadable files will remain in their respective folder.
 
 
 ### Tutorial Formatting
