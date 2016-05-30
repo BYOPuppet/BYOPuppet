@@ -14,7 +14,7 @@ Each 3D models was originally designed to meet the production process of a given
 * **FDM (Fused Deposition Modeling, also known as FFF or Fused Filament Fabrication)**
 ![](http://images.gizmag.com/inline/3d-printer-comparison-11.jpg)
 _image source Gizmag_
-<b>
+<br>
 The most common 3D printing technology of desktop printers. Plastic filament is extruded through a heated nozzle that then deposits material.
 Common examples include Makerbot, Ultimkaer, and RepRap.
 
@@ -24,7 +24,7 @@ _image source Shapeways_
 <b>
 Select Laser Sintering uses a laser to fuse powdered material to create a solid object.  Unlike other additive manufacturing such as FDM and SLA (stereolithography), SLS does not require special support structures to fabricate overhanging designs.  
 
-<b>
+<br>
 
 <font color=”#0000FF”>Note: To help BYOPuppet grow as a resource, all are invited to download a 3d file, modify it to meet the needs of your preferred printing method, and upload the new version to be shared with the community. </font>
 
