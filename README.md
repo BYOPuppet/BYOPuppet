@@ -1,4 +1,4 @@
-# BYOPuppet 3D Models
+# Welcome to BYOPuppet!
 
 ![](http://static1.squarespace.com/static/53ff8881e4b04e39d68dcf60/t/540e8066e4b0a9043e9e4b67/1410236535749/?format=1000w)
 <br>
@@ -22,9 +22,6 @@ BYOPuppet is a project that aims to
     * personalize designs to accomodate specific characters, aesthetics, movement, etc required for a given production or even simply personal experimentation
     * and more
 
-## Contributing
-
-If you want to add file modifications, assembly documentation, etc. from your own work and experimentation, you need to request access at the **Contributor** level. An Admin will grant you permission as soon as they are able. If you join as an **Observer/User** , you won't get to see work added, it'll just add BYOPuppet to your Dashboard.
 
 ## 3D Models
 
@@ -55,9 +52,17 @@ Select Laser Sintering uses a laser to fuse powdered material to create a solid 
 
 ## Project Tutorials
 
+All Project Tutorials are listed under <a href=https://github.com/BYOPuppet/BYOPuppet/wiki/">BYOPuppet's Wiki page</a>. 
 * Projects may reference files (ex. balljoint_1half_PVCfit.stl ), however downloadable files will remain in their respective folder.
 
 
-## Tutorial Formatting
+## Contributing
 
-Please include all _materials_, _tools_, and reference any possible _files_ used to create the project you are sharing. 
+Get involved by sharing your onw 3d models and project tutorials. 
+We are currently looking for
+1. expansion of FDM 3D models
+2. update existing files to improve puppet performance
+
+
+## Liscensing
+BYOPuppet is listed under the MIT License allowing distribution, modification, commercial and private use of uploaded files. 
