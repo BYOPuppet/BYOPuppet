@@ -1,4 +1,4 @@
-3 BYOPuppet 3D Models
+# BYOPuppet 3D Models
 
 ![](http://static1.squarespace.com/static/53ff8881e4b04e39d68dcf60/t/540e8066e4b0a9043e9e4b67/1410236535749/?format=1000w)
 <br>
