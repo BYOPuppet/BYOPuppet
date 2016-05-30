@@ -52,7 +52,7 @@ Select Laser Sintering uses a laser to fuse powdered material to create a solid 
 
 ## Project Tutorials
 
-All Project Tutorials are listed under <a href=https://github.com/BYOPuppet/BYOPuppet/wiki/">BYOPuppet's Wiki page</a>. 
+All Project Tutorials are listed under [BYOPuppet's Wiki page](https://github.com/BYOPuppet/BYOPuppet/wiki/).
 * Projects may reference files (ex. balljoint_1half_PVCfit.stl ), however downloadable files will remain in their respective folder.
 
 
