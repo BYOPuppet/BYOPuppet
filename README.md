@@ -57,3 +57,11 @@ Select Laser Sintering uses a laser to fuse powdered material to create a solid 
 
 <font color=”#0000FF”>Note: To help BYOPuppet grow as a resource, all are invited to download a 3d file, modify it to meet the needs of your preferred printing method, and upload the new version to be shared with the community. </font>
 
+For easy reference, **ALL** tutorials for puppet construction, tips, and references will be kept on BYOPuppet's Wiki. 
+
+Projects may reference files (ex. balljoint_1half_PVCfit.stl ), however downloadable files will remain in their respective folder.
+
+
+### Tutorial Formatting
+
+Please include all _materials_, _tools_, and reference any possible _files_ used to create the project you are sharing. 
