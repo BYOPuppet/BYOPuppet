@@ -25,13 +25,11 @@ BYOPuppet is a project that aims to
 If you want to add file modifications, assembly documentation, etc. from your own work and experimentation, you need to request access at the **Contributor** level. An Admin will grant you permission as soon as they are able. If you join as an **Observer/User** , you won't get to see work added, it'll just add BYOPuppet to your Dashboard.
 
 
-# 3D Models for BYOPuppet!
-
-This is a repository of files dedicated towards 3D printing puppet and automaton parts. Models are stored in real world (1x) scale. STL units are millimeters.
-
-## Directory Structure
+# 3D Models
+   * Models are stored in real world (1x) scale. STL units are millimeters.
 
 Each 3D models was originally designed to meet the production process of a given 3D printing technology. 
+
 3D models are organized in folders according to their recommended printing method.
 
 
