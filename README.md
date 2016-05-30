@@ -20,6 +20,7 @@ _image source Gizmag_
 The most common 3D printing technology of desktop printers. Plastic filament is extruded through a heated nozzle that then deposits material.
 Common examples include Makerbot, Ultimkaer, and RepRap.
 <br>
+
 * **SLS (Selective Laser Sintering)**
 <br>
 ![](http://images.shapeways.com/picture/image//udesign/tutorials/designing_mechanical_parts_for_3d_printing/06.png)
