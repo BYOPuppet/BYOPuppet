@@ -1,3 +1,6 @@
+![](http://static1.squarespace.com/static/53ff8881e4b04e39d68dcf60/t/540e8066e4b0a9043e9e4b67/1410236535749/?format=1000w)
+<br>
+
 BYOPuppet is an opensource catalog of 3D printed joints, puppet parts, and resources with a community of artists interested in sharing their process and exploring how 3D printing and CAD can be applied to puppetry. 
 
 ### Motivation
@@ -19,7 +22,7 @@ BYOPuppet is a project that aims to
 
 ### Contributing
 
-If you want to add file modifications, assembly documentation, etc., you need to request access at the **Contributor** level. An Admin will grant you permission as soon as they are able. If you join as an **Observer/User** , you won't get to see the defects, it'll just add BYOPuppet to your Dashboard.
+If you want to add file modifications, assembly documentation, etc. from your own work and experimentation, you need to request access at the **Contributor** level. An Admin will grant you permission as soon as they are able. If you join as an **Observer/User** , you won't get to see work added, it'll just add BYOPuppet to your Dashboard.
 
 
 # 3D Models for BYOPuppet!
@@ -56,6 +59,9 @@ Select Laser Sintering uses a laser to fuse powdered material to create a solid 
 <br>
 
 <font color=”#0000FF”>Note: To help BYOPuppet grow as a resource, all are invited to download a 3d file, modify it to meet the needs of your preferred printing method, and upload the new version to be shared with the community. </font>
+
+
+# Projects
 
 For easy reference, **ALL** tutorials for puppet construction, tips, and references will be kept on BYOPuppet's Wiki. 
 
