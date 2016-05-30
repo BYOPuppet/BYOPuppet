@@ -26,11 +26,11 @@ If you want to add file modifications, assembly documentation, etc. from your ow
 
 
 # 3D Models
-   * Models are stored in real world (1x) scale. STL units are millimeters.
 
-Each 3D models was originally designed to meet the production process of a given 3D printing technology. 
+* Models are stored in real world (1x) scale. STL units are millimeters.
+* Each 3D models was originally designed to meet the production process of a given 3D printing technology. 
+* 3D models are organized in folders according to their recommended printing method.
 
-3D models are organized in folders according to their recommended printing method.
 
 
 
