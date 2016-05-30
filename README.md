@@ -1,3 +1,27 @@
+BYOPuppet is an opensource catalog of 3D printed joints, puppet parts, and resources with a community of artists interested in sharing their process and exploring how 3D printing and CAD can be applied to puppetry. 
+
+### Motivation
+
+Artists often wear many hats when creating a show: playwright, performer, sculptor, set designer, director, character designer, costume designer, lighting...etc.  
+
+With so many disciplines applied towards an artistic production under typically limited time and budget, the need for a centralized resource to simplify the construction process became clear. 
+
+### Solution
+
+BYOPuppet is a project that aims to 
+
+* Provide artists a library of 3D printable files, assembly instructions, and more that can be applied and modified towards, but not limited to, puppet construction. 
+
+* Offer a place where artists can upload and share modified files created from the original designs created by Laurie Berenhaus. Such modifications may include updates that:
+    * allow designs to be printed in a different material or printing process, from the original
+    * personalize designs to accomodate specific characters, aesthetics, movement, etc required for a given production or even simply personal experimentation
+    *and more
+
+### Contributing
+
+If you want to add file modifications, assembly documentation, etc., you need to request access at the **Contributor** level. An Admin will grant you permission as soon as they are able. If you join as an **Observer/User** , you won't get to see the defects, it'll just add BYOPuppet to your Dashboard.
+
+
 # 3D Models for BYOPuppet!
 
 This is a repository of files dedicated towards 3D printing puppet and automaton parts. Models are stored in real world (1x) scale. STL units are millimeters.
