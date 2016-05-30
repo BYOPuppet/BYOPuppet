@@ -1,7 +1,25 @@
-# Ball Joints
-Printable puppet ball joints
-<iframe width="640" height="480" src="https://sketchfab.com/models/521475bbb84d4324a7b1bf1ecbb99704/embed" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe><p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-    <a href="https://sketchfab.com/models/521475bbb84d4324a7b1bf1ecbb99704?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Hand w/ Wrist Joint</a>
-    by <a href="https://sketchfab.com/byopuppet?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">byopuppet</a>
-    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-</p>
+# 3D Models for BYOPuppet!
+
+This is a repository of files dedicated towards 3D printing puppet and automaton parts. Models are stored in real world (1x) scale. STL units are millimeters.
+
+## Directory Structure
+
+Each 3D models was originally designed to meet the production process of a given 3D printing technology. 
+3D models are organized in folders according to their recommended printing method.
+
+
+
+## 3D Printing 
+
+* **FDM (Fused Deposition Modeling, also known as FFF or Fused Filament Fabrication)**
+![](http://images.gizmag.com/inline/3d-printer-comparison-11.jpg)
+_image source Gizmag_
+The most common 3D printing technology of desktop printers. Plastic filament is extruded through a heated nozzle that then deposits material
+Common examples include Makerbot, Ultimkaer, and RepRap
+
+* **SLS (Selective Laser Sintering)**
+![](http://images.shapeways.com/picture/image//udesign/tutorials/designing_mechanical_parts_for_3d_printing/06.png)
+_image source Shapeways_
+Select Laser Sintering uses a laser to fuse powdered material to create a solid object.  Unlike other additive manufacturing such as FDM and SLA (stereolithography), SLS does not require special support structures to fabricate overhanging designs.  
+
+Note: To help BYOPuppet grow as a resource, all are invited to download a 3d file, modify it to meet the needs of your preferred printing method, and upload the new version to be shared with the community. 
